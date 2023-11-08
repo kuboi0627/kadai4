@@ -1,4 +1,4 @@
-```mermaid
+<!-- ```mermaid
 graph BT;
     id1["銀行でお金をおろす"]
     id2["ゆで卵を作る
@@ -6,7 +6,7 @@ graph BT;
     id1==10分待ちなさい==>2
     ```
 
-```mermaid
+    ```mermaid
     flowchart TB
     c1-->a2
     subgraph one
@@ -18,4 +18,4 @@ graph BT;
     subgraph three
     c1-->c2
     end
-```
+    ``` -->
